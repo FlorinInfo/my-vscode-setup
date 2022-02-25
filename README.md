@@ -1,4 +1,4 @@
-# My VS Code setu&nbsp;p 
+# My VS Code setup 
 
 ### Theme
 
